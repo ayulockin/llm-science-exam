@@ -1,0 +1,7 @@
+Datasets:
+- https://www.kaggle.com/datasets/mozattt/llm-science-3k-data
+- https://www.kaggle.com/datasets/leonidkulyk/wikipedia-stem-1k
+- https://www.kaggle.com/datasets/radek1/additional-train-data-for-llm-science-exam
+
+Kaggle Kernel:
+- https://www.kaggle.com/code/awsaf49/llm-science-exam-kerascore-kerasnlp-tpu
